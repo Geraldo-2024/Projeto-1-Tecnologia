@@ -1,0 +1,123 @@
+.container {
+    background-color: #011640;
+    /*border: 1px solid rgb(64, 23, 212);*/
+    padding: 1px;
+    display: grid;
+    gap: 2px;
+    
+    grid-template-areas:
+        'header header header header'
+        'sidebar content content aside'
+        'footer footer footer footer';
+
+}
+
+.container div{
+    padding: 8px; 
+    /*border: 1px solid rgb(145, 128, 190);*/
+    color: white;
+}
+
+
+hr {
+    width: 100%;
+    border-bottom: 1px solid #000000;
+}
+
+#header {
+    grid-area: header;
+    background-color:  #0D0D0D;
+    /*position: sticky;*/
+    width: 99%;
+    top: 0;
+    left: 0;
+    z-index: 1px;
+        
+
+}
+
+.logo {
+    text-align: center;
+    width: 98%; 
+    height: 110px;
+}
+
+.nave ul li a {
+    color: white;
+    padding-inline: 8px;
+    margin: 4px;   
+}
+
+.nave ul {
+    list-style: none;
+    padding: 15px;
+    
+}
+
+.nave ul li {
+    float:right;
+}
+
+a:hover {
+    background-color: #426A8C;
+}
+
+
+
+#sidebar {
+    
+    grid-area: sidebar;
+    background-color: #426A8C;
+    width: 150px;
+}
+           
+#content {
+    grid-area: content;
+    background-color: #77728a;
+    
+    
+}
+
+#content h1, h2 {
+    text-align: center;
+}
+
+
+#aside {
+    grid-area: aside;
+    background-color: #426A8C;
+    width: 150px;
+}
+
+
+#footer {
+    grid-area: footer;
+    background-color: #233A59;
+    list-style: none;
+    padding: 20px;
+    
+}
+
+#footer ul {
+    list-style: none;
+    padding: 20px;
+    
+}
+
+#footer ul li {
+    float: right;
+    color: white;
+}
+
+#footer ul li a {
+    color: aliceblue;
+    padding: 20px;
+}
+    
+/* Color Theme Swatches in Hex 
+.UI/UX-1-hex { color: #011640; }
+.UI/UX-2-hex { color: #233A59; }
+.UI/UX-3-hex { color: #426A8C; }
+.UI/UX-4-hex { color: #F2F2F2; }
+.UI/UX-5-hex { color: #0D0D0D; }*/
+
