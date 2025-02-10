@@ -53,7 +53,7 @@ Os dados pessoais podem ser registrados em um blockchain e compartilhados entre 
 Além disso, o blockchain pode ser usado para criar sistemas de autenticação de identidade, permitindo que os indivíduos controlem quem tem acesso às informações. Isso pode ser especialmente útil em setores como saúde e finanças, onde a privacidade e a segurança dos dados são extremamente importantes.
 
 Por fim, é válido reforçar que a tecnologia blockchain pode ser uma ferramenta poderosa e importante para ajudar empresas e organizações a atender às necessidades da LGPD.</p>
-<imgscr="https://files.tecnoblog.net/wp-content/uploads/2019/01/apple-digital-fingerprint-scanner-9041-768x512.jpg">
+<img scr="https://files.tecnoblog.net/wp-content/uploads/2019/01/apple-digital-fingerprint-scanner-9041-768x512.jpg">
 <h1><STRONG>BIOMETRIA</STRONG></h1>
 <p>A biometria é um dos caminhos mais seguros para a identificação de pessoas e proteção de dados. É usada de caixas automáticos em bancos a terminais de embarque em aeroportos. Até mesmo seu celular, tablet ou computador têm grandes chances de possuírem um método de identificação por digital ou reconhecimento facial.</p>
 <p><strong>O que é Biometria?</strong></p>
