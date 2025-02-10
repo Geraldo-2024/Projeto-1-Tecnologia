@@ -113,5 +113,16 @@ Por meio da computação de baixo custo, nuvem, big data, análise avançada e t
 <p>Com os avanços em machine learning e análise avançada, além do acesso a quantidades grandes e variadas de dados armazenados na nuvem, as empresas podem obter insights de maneira mais rápida e fácil. O surgimento dessas tecnologias aliadas continua a ultrapassar os limites da IoT e os dados produzidos pela IoT também alimentam essas tecnologias.</p>
 <p><strong>Inteligência artificial (IA)</strong></p>
 <p>A IA está impulsionando um aumento na demanda por serviços de computação em nuvem e data centers, pois são necessárias grandes quantidades de dados no treinamento de modelos de IA para detectar padrões ou prever números.</p>
+<p><strong>O que é IoT Industrial?</p></strong>
+
+<p>IoT industrial (IIoT) refere-se à aplicação da tecnologia IoT em ambientes industriais, especialmente no que diz respeito à instrumentação e controle de sensores e dispositivos que envolvem tecnologias de nuvem. Recentemente, as indústrias usaram a comunicação máquina a máquina (M2M) para obter automatização e controle sem fio. Mas com o surgimento da nuvem e de tecnologias aliadas (como análise avançada e machine learning), os setores podem alcançar uma nova camada de automatização e, com ela, criar receitas e modelos de negócios. A IIoT às vezes é chamada de quarta onda da revolução industrial, ou Industry 4.0. A seguir, alguns usos comuns para IIoT:</p>
+
+<p><strong>Operações inteligentes na fabricação
+Operações inteligentes em manutenção
+Operações inteligentes no gerenciamento de estoque
+Redes de energia inteligentes
+Cidades inteligentes
+Logística conectada
+Cadeias de suprimentos digitais inteligentes</strong></p>
 
 
