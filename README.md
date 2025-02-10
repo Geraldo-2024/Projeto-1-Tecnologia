@@ -101,4 +101,17 @@ Por meio da computação de baixo custo, nuvem, big data, análise avançada e t
 
 <p><strong>Quais tecnologias tornaram a IoT possível?</strong></p>
 
+<p>Embora a ideia de IoT já exista há muito tempo, uma coleção de avanços recentes em diversas tecnologias diferentes tornou-a prática.</p>
+
+<p><strong>Acesso a tecnologia de sensores de baixo custo e baixa potência</strong></p>
+<p>Sensores acessíveis e confiáveis estão possibilitando a tecnologia IoT para mais fabricantes.</p>
+<p><strong>Conectividade<p></strong>
+<p>Uma série de protocolos de rede para a internet facilitou a conexão de sensores à nuvem e a outras coisas para transferência eficiente de dados.</p>
+<p><strong>Plataformas de computação em nuvem</strong></p>
+<p>O aumento da disponibilidade de plataformas em nuvem permite que empresas e consumidores acessem a infraestrutura de que precisam para expandir sem realmente precisar gerenciar tudo isso.</p>
+<p><strong>Machine learning e análise avançada</strong></p>
+<p>Com os avanços em machine learning e análise avançada, além do acesso a quantidades grandes e variadas de dados armazenados na nuvem, as empresas podem obter insights de maneira mais rápida e fácil. O surgimento dessas tecnologias aliadas continua a ultrapassar os limites da IoT e os dados produzidos pela IoT também alimentam essas tecnologias.</p>
+<p><strong>Inteligência artificial (IA)</strong></p>
+<p>A IA está impulsionando um aumento na demanda por serviços de computação em nuvem e data centers, pois são necessárias grandes quantidades de dados no treinamento de modelos de IA para detectar padrões ou prever números.</p>
+
 
