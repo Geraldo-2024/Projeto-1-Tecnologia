@@ -1,4 +1,5 @@
-<h1><STRONG>O que é cibersegurança?</STRONG></h1>
+<h1><STRONG>cibersegurança?</STRONG></h1>
+<p><strong> O que é cibersegurança?</strong></p>
 <P>A cibersegurança refere-se a quaisquer tecnologias, práticas e políticas que atuem na prevenção de ataques cibernéticos ou na mitigação do seu impacto. A cibersegurança tem como objetivo proteger sistemas de computador, aplicações, dispositivos, dados, ativos financeiros e pessoas contra ransomwares e outros malwares, golpes de phishing , roubo de dados e outras ameaças cibernéticas.</P>
 
 <P>Em nível empresarial, a cibersegurança é um componente essencial da estratégia geral de gerenciamento de riscos de uma organização. De acordo com a Cybersecurity Ventures, os gastos globais em produtos e serviços de cibersegurança excederão um total de US$ 1,75 trilhão durante os anos de 2021 a 2025.</P>
