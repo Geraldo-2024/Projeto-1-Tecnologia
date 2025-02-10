@@ -35,7 +35,7 @@ Cryptojacking
 Distributed denial-of-service (DDoS)</p>
 
 
-<P><STRONG>BLOCkCHAIN</STRONG><P>
+<h1><STRONG>BLOCkCHAIN</STRONG><h1>
 <P>A Lei Geral de Proteção de Dados (LGPD) é uma lei brasileira que entrou em vigor em setembro de 2020 e tem como objetivo proteger os dados pessoais dos indivíduos. Ela estabelece regras claras para a coleta, armazenamento, tratamento e compartilhamento de dados pessoais e implicações significativas para empresas que não cumprem com as normas.
 Ao mesmo tempo, a tecnologia blockchain é uma ferramenta poderosa que pode ser usada para criar sistemas de registro descentralizados, seguros e transparentes para armazenar e compartilhar dados. Neste artigo, vamos explorar como a tecnologia blockchain pode ajudar empresas e organizações a atender às exigências da LGPD.</P>
 
