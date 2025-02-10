@@ -89,3 +89,16 @@ O usuário deve olhar para um dispositivo e uma luz infravermelha de baixa inten
 <p><strong>6.Reconhecimento pela Digitação</strong></p>
 <p>Pouco invasivo, baseia-se na análise do ritmo e cadência do usuário ao <strong>digitar</strong>. Cada pessoa possui um estilo próprio, seja a quantidade de dedos que utiliza, a velocidade com que digita, a força que aplica às teclas e etc.
  Com baixo custo, sua captação dos dados não é tão simples e ele é pouco confiável, já que um usuário pode mudar o estilo de digitação, de forma inconsciente ou intencional.</p>
+
+ <h1><strong>IOT</h1></strong>
+
+<P>A Internet das Coisas (IoT) descreve a rede de objetos físicos incorporados a sensores, software e outras tecnologias com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet. Esses dispositivos variam de objetos domésticos comuns a ferramentas industriais sofisticadas.</p>
+<
+<p><strong>Por que a Internet das Coisas (IoT) é tão importante?</strong></p>
+
+<p>Nos últimos anos, a IoT se tornou uma das tecnologias mais importantes do século XXI. Agora que podemos conectar objetos do cotidiano - eletrodomésticos, carros, termostatos, babás eletrônicas - à Internet por meio de dispositivos incorporados, é possível uma comunicação perfeita entre pessoas, processos e outras coisas.
+Por meio da computação de baixo custo, nuvem, big data, análise avançada e tecnologias móveis, coisas físicas podem compartilhar e coletar dados com o mínimo de intervenção humana. Nesse mundo hiperconectado, os sistemas digitais podem gravar, monitorar e ajustar cada interação entre itens conectados. O mundo físico encontra o mundo digital, e eles trabalham em conjunto.</p>
+
+<p><strong>Quais tecnologias tornaram a IoT possível?</strong></p>
+
+
