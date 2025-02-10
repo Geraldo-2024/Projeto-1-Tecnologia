@@ -61,7 +61,7 @@ A palavra <strong>Biometria</strong> (do latim, bio + metria) é a medição da 
 Em Segurança da Informação, a biometria consiste na aplicação de <strong>métricas a atributos biológicos</strong>, para fins de aferição e <strong>identificação de um indivíduo</strong>. A biometria serve para controlar o acesso físico de pessoas a certos setores e salas, identificar e localizar criminosos, e para impedir que pessoas não autorizadas acessem digitalmente dados sigilosos, protegidos por autores ou mantenedores.
 <p><strong>Quais os tipos de biometria mais populares?</strong><p>
 <p>Existem diversos tipos de biometria, desde as que se baseiam na <strong>geometria das mãos</strong> à <strong>analise de assinatura</strong>, que verifica a autenticidade de um documento assinado pela pressão e maneirismos. Podemos listar os seis tipos mais populares, utilizados em uma série de soluções, mais ou menos seguros ou com estudos mais avançados do que outros, e que podem ser tornar padrão no futuro.</p>
-<p><strong>1. Impressão Digital</strong></p>
+<p><strong>1.Impressão Digital</strong></p>
 <p>O método de reconhecimento biométrico pela <strong>impressão digital</strong> é o mais antigo e de menor custo para implementação. É extremamente confiável, dada a baixíssima mutabilidade dos dados ao longo do tempo. Migrou suavemente dos meios analógicos para o digital.
 Por digitais se manterem as mesmas por toda a vida, a única possibilidade de apresentar problemas é se a pessoa perder as suas digitais, independente do motivo. Por isso mesmo, o método continua a ser utilizado sozinho ou combinado com outros.</p>
 
@@ -74,8 +74,16 @@ Empresas e governos podem coletar dados do rosto das pessoas contra a vontade de
 <p><strong>3.Reconhecimento de Íris</strong></p>
 <p>A biometria usando a <strong>íris</strong> (a parte colorida do olho humano, que controla a entrada de luz) é extremamente confiável, já que a membrana permanece a mesma ao longo de toda a vida. Diferente do método de leitura da retina, ele é bem menos invasivo e oferece um alto grau de confiabilidade, além de ser difícil de contornar.
 Entretanto, a implementação do método é bastante cara, embora cogita-se que a leitura de íris será o método de biometria mais usado a médio prazo, superando a impressão digital.
-Muitos celulares, em especial modelos premium, trazem um scanner de íris embutido na câmera, oferecendo tal opção de segurança para proteger os dados.</p>
+Muitos celulares, em especial modelos premium, trazem um <strong>scanner de íris</strong> embutido na câmera, oferecendo tal opção de segurança para proteger os dados.</p>
 
 <p><strong>4.Reconhecimento de Voz</p></strong>
 <p>O método de <strong>reconhecimento por voz</strong> faz uma análise dos parâmetros físicos (cordas vocais, laringe e etc.) e comportamentais, como sotaques, maneirismos, entonação e etc. O resultado é um perfil sonoro único, que em tese pode ser usado como uma assinatura biométrica.
 Com custo para a implementação baixo, a confiabilidade dos dados é pouca, já que qualquer ruído pode comprometer a coleta e análise da voz. Alterações causadas por problemas de saúde ou mesmo pelo envelhecimento também derrubam os índices de acertos.</p>
+
+<p><strong>5.Reconhecimento de Retina</strong></p>
+<p>É uma das biometrias mais seguras que existe, já que a disposição dos vasos sanguíneos que irrigam a <strong>retina</strong> varia de pessoa para pessoa, e não mudam. Os meios necessários para a coleta e leitura dos dados não são simples, o que dificulta a falsificação das informações.
+O usuário deve olhar para um dispositivo e uma luz infravermelha de baixa intensidade fará a “leitura” da retina. Embora seguro, é bastante invasivo e incômodo.</p>
+
+<p><strong>6.Reconhecimento pela Digitação</strong></p>
+<p>Pouco invasivo, baseia-se na análise do ritmo e cadência do usuário ao <strong>digitar</strong>. Cada pessoa possui um estilo próprio, seja a quantidade de dedos que utiliza, a velocidade com que digita, a força que aplica às teclas e etc.
+ Com baixo custo, sua captação dos dados não é tão simples e ele é pouco confiável, já que um usuário pode mudar o estilo de digitação, de forma inconsciente ou intencional.</p>
