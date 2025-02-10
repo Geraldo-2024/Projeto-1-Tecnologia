@@ -53,4 +53,23 @@ Os dados pessoais podem ser registrados em um blockchain e compartilhados entre 
 Além disso, o blockchain pode ser usado para criar sistemas de autenticação de identidade, permitindo que os indivíduos controlem quem tem acesso às informações. Isso pode ser especialmente útil em setores como saúde e finanças, onde a privacidade e a segurança dos dados são extremamente importantes.
 
 Por fim, é válido reforçar que a tecnologia blockchain pode ser uma ferramenta poderosa e importante para ajudar empresas e organizações a atender às necessidades da LGPD.</p>
+<h1><STRONG>BIOMETRIA</STRONG></h1>
+<p>A biometria é um dos caminhos mais seguros para a identificação de pessoas e proteção de dados. É usada de caixas automáticos em bancos a terminais de embarque em aeroportos. Até mesmo seu celular, tablet ou computador têm grandes chances de possuírem um método de identificação por digital ou reconhecimento facial.</p>
+<p><strong>O que é Biometria?</strong></p>
+A palavra <strong>Biometria</strong> (do latim, bio + metria) é a medição da vida, ou em termos mais gerais, o estudo estatístico de características físicas e comportamentais.
+
+Em Segurança da Informação, a biometria consiste na aplicação de <strong>métricas a atributos biológicos</strong>, para fins de aferição e <strong>identificação de um indivíduo</strong>. A biometria serve para controlar o acesso físico de pessoas a certos setores e salas, identificar e localizar criminosos, e para impedir que pessoas não autorizadas acessem digitalmente dados sigilosos, protegidos por autores ou mantenedores.
+<p><strong>Quais os tipos de biometria mais populares?</strong><p>
+<p>Existem diversos tipos de biometria, desde as que se baseiam na <strong>geometria das mãos</strong> à <strong>analise de assinatura</strong>, que verifica a autenticidade de um documento assinado pela pressão e maneirismos. Podemos listar os seis tipos mais populares, utilizados em uma série de soluções, mais ou menos seguros ou com estudos mais avançados do que outros, e que podem ser tornar padrão no futuro.</p>
+<p><strong>1. Impressão Digital</strong></p>
+<p>O método de reconhecimento biométrico pela <strong>impressão digital</strong> é o mais antigo e de menor custo para implementação. É extremamente confiável, dada a baixíssima mutabilidade dos dados ao longo do tempo. Migrou suavemente dos meios analógicos para o digital.
+Por digitais se manterem as mesmas por toda a vida, a única possibilidade de apresentar problemas é se a pessoa perder as suas digitais, independente do motivo. Por isso mesmo, o método continua a ser utilizado sozinho ou combinado com outros.</p>
+
+<p><strong>2.Reconhecimento Facial</strong></p>
+<p>O reconhecimento facial, presente até em celulares, consiste em mapear um rosto, seja em 3D (como o Face ID da Apple) ou em 2D (como a maioria dos smartphones). Cria-se uma imagem da pessoa que será utilizada para desbloqueio de funções e identificação.
+
+Entre os argumentos contra a técnica, está o fato de que o método não é permanente, ao passo que o usuário envelhece, pode mudar o rosto com cirurgias ou tem um irmão gêmeo idêntico. A coleta de dados também não é precisa em análises 2D, e mesmo mapeamento em profundidade costuma dar falsos positivos.
+
+Por fim, há o fator invasivo:
+Empresas e governos podem coletar dados do rosto das pessoas contra a vontade delas fazendo fotos e vídeos em locais públicos e utilizando para os mais diversos fins.</p>
 
