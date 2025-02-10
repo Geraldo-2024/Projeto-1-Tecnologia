@@ -124,5 +124,28 @@ Por meio da computação de baixo custo, nuvem, big data, análise avançada e t
 <p>Cidades inteligentes</p>
 <p>Logística conectada</p>
 <p>Cadeias de suprimentos digitais inteligentes</p>
+<p><strong>Quais são algumas das maneiras usadas para implantar aplicações de IoT?</strong><p/>
+
+<p>A capacidade da IoT de fornecer informações sobre o sensor e ativar a comunicação dispositivo a dispositivo está impulsionando um amplo conjunto de aplicações. Veja a seguir algumas das aplicações mais populares e o que elas fazem.</P>
+
+<p><strong>Crie novas eficiências em manufatura por meio do monitoramento da máquina e do monitoramento da qualidade do produto.
+As máquinas podem ser monitoradas e analisadas continuamente para garantir o desempenho dentro das tolerâncias exigidas. Os produtos também podem ser monitorados em tempo real para identificar e solucionar defeitos de qualidade.</strong><p/>
+
+
+<p><strong>Melhore o rastreamento e a restrição de ativos físicos.</strong><p/>
+
+<p>O rastreamento permite que as empresas determinem rapidamente a localização dos ativos. O ring-fence permite que eles garantam que ativos de alto valor estejam protegidos contra roubo e remoção.</p>
+
+<p><strong>Use dispositivos vestíveis para monitorar as análises avançadas da saúde humana e as condições ambientais.</strong><p/>
+
+<p>Os dispositivos vestíveis da IoT permitem que as pessoas entendam melhor sua própria saúde e permitem que os médicos monitorem remotamente os pacientes. Essa tecnologia também permite que as empresas rastreiem a saúde e a segurança de seus funcionários, o que é especialmente útil para trabalhadores empregados em condições perigosas.</p>
+
+<p><strong>Impulsione eficiências e novas possibilidades nos processos existentes.</strong><p/>
+
+<p>Um exemplo disso é o uso de IoT para aumentar a eficiência e segurança em logística conectada para gerenciamento de frotas. As empresas podem usar o monitoramento da frota da Internet das Coisas para direcionar caminhões, em tempo real, para melhorar a eficiência.</p>
+
+<p><strong>Habilitar alterações de processos de negócios.</strong><p/>
+
+<p>Um exemplo disso é o uso de dispositivos IoT para ativos conectados para monitorar a saúde de máquinas remotas e acionar chamadas de serviço para manutenção preventiva. A capacidade de monitorar remotamente as máquinas também está habilitando novos modelos de negócio de produto como serviço, onde os clientes não precisam mais comprar um produto, mas pagam pelo uso.</p>
 
 
