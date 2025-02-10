@@ -67,9 +67,11 @@ Por digitais se manterem as mesmas por toda a vida, a única possibilidade de ap
 
 <p><strong>2.Reconhecimento Facial</strong></p>
 <p>O reconhecimento facial, presente até em celulares, consiste em mapear um rosto, seja em 3D (como o Face ID da Apple) ou em 2D (como a maioria dos smartphones). Cria-se uma imagem da pessoa que será utilizada para desbloqueio de funções e identificação.
-
 Entre os argumentos contra a técnica, está o fato de que o método não é permanente, ao passo que o usuário envelhece, pode mudar o rosto com cirurgias ou tem um irmão gêmeo idêntico. A coleta de dados também não é precisa em análises 2D, e mesmo mapeamento em profundidade costuma dar falsos positivos.
-
 Por fim, há o fator invasivo:
 Empresas e governos podem coletar dados do rosto das pessoas contra a vontade delas fazendo fotos e vídeos em locais públicos e utilizando para os mais diversos fins.</p>
 
+<p><strong>3.Reconhecimento de Íris</strong></p>
+<p>A biometria usando a <strong>íris</strong> (a parte colorida do olho humano, que controla a entrada de luz) é extremamente confiável, já que a membrana permanece a mesma ao longo de toda a vida. Diferente do método de leitura da retina, ele é bem menos invasivo e oferece um alto grau de confiabilidade, além de ser difícil de contornar.
+Entretanto, a implementação do método é bastante cara, embora cogita-se que a leitura de íris será o método de biometria mais usado a médio prazo, superando a impressão digital.
+Muitos celulares, em especial modelos premium, trazem um scanner de íris embutido na câmera, oferecendo tal opção de segurança para proteger os dados.</p>
