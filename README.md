@@ -117,12 +117,12 @@ Por meio da computação de baixo custo, nuvem, big data, análise avançada e t
 
 <p>IoT industrial (IIoT) refere-se à aplicação da tecnologia IoT em ambientes industriais, especialmente no que diz respeito à instrumentação e controle de sensores e dispositivos que envolvem tecnologias de nuvem. Recentemente, as indústrias usaram a comunicação máquina a máquina (M2M) para obter automatização e controle sem fio. Mas com o surgimento da nuvem e de tecnologias aliadas (como análise avançada e machine learning), os setores podem alcançar uma nova camada de automatização e, com ela, criar receitas e modelos de negócios. A IIoT às vezes é chamada de quarta onda da revolução industrial, ou Industry 4.0. A seguir, alguns usos comuns para IIoT:</p>
 
-<p><strong>Operações inteligentes na fabricação
-Operações inteligentes em manutenção
-Operações inteligentes no gerenciamento de estoque
-Redes de energia inteligentes
-Cidades inteligentes
-Logística conectada
-Cadeias de suprimentos digitais inteligentes</strong></p>
+<p>Operações inteligentes na fabricação</p>
+<p>Operações inteligentes em manutenção</p>
+<p>Operações inteligentes no gerenciamento de estoque</p>
+<p>Redes de energia inteligentes</p>
+<p>Cidades inteligentes</p>
+<p>Logística conectada</p>
+<p>Cadeias de suprimentos digitais inteligentes</p>
 
 
