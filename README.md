@@ -147,5 +147,34 @@ As máquinas podem ser monitoradas e analisadas continuamente para garantir o de
 <p><strong>Habilitar alterações de processos de negócios.</strong><p/>
 
 <p>Um exemplo disso é o uso de dispositivos IoT para ativos conectados para monitorar a saúde de máquinas remotas e acionar chamadas de serviço para manutenção preventiva. A capacidade de monitorar remotamente as máquinas também está habilitando novos modelos de negócio de produto como serviço, onde os clientes não precisam mais comprar um produto, mas pagam pelo uso.</p>
+<p><strong>Quais setores podem se beneficiar da IoT?</strong></p>
+<p>As organizações mais adequadas para a IoT são aquelas que se beneficiariam do uso de dispositivos sensores em seus processos de negócios.</p>
+
+<p><strong>Fabricação</strong></p>
+<p>Fabricantes podem obter uma vantagem competitiva usando o monitoramento da linha de produção para permitir a manutenção proativa do equipamento quando os sensores detectam uma falha iminente. Os sensores podem realmente medir quando a produção está comprometida. Com a ajuda de alertas de sensor, os fabricantes podem verificar rapidamente a precisão do equipamento ou removê-lo da produção até que seja reparado. Isso permite que as empresas reduzam os custos operacionais, melhorem o tempo de atividade e melhorem o gerenciamento do desempenho dos ativos.</p>
+
+<p><strong>Automotivo</strong></p>
+
+<p>O setor automotivo espera obter vantagens significativas com o uso de aplicações de IoT. Além dos benefícios da aplicação da IoT nas linhas de produção, os sensores podem detectar falhas iminentes dos equipamentos nos veículos que já estão na estrada e podem alertar o motorista com detalhes e recomendações. Graças às informações agregadas coletadas pelas aplicações baseadas na IoT, fabricantes e fornecedores automotivos podem aprender mais sobre como manter os carros em movimento e os proprietários de carros informados.</p>
+
+<p><strong>Transporte e Logística</strong></p>
+
+<p>Os sistemas de transporte e logística se beneficiam de uma variedade de aplicações de IoT. Frotas de carros, caminhões, navios e trens que possuem estoque podem ser redirecionadas com base nas condições climáticas, disponibilidade de veículo ou motorista, graças aos dados do sensor de IoT. O estoque em si também pode ser equipado com sensores para monitoramento de acompanhamento e rastreamento e controle de temperatura. Os setores de alimentos e bebidas, flores e produtos farmacêuticos costumam realizar estoques sensíveis à temperatura que se beneficiariam muito com as aplicações de monitoramento da IoT que enviam alertas quando as temperaturas aumentam ou caem para um nível que ameaça o produto.</p>
+
+<p><strong>Varejo</strong></p>
+
+<p>As aplicações de IoT permitem que as empresas de varejo gerenciem estoques, melhorem a experiência do cliente, otimizem a cadeia de suprimentos e reduzam os custos operacionais. Por exemplo, prateleiras inteligentes equipadas com sensores de peso podem coletar informações baseadas em RFID e enviar os dados para a plataforma IoT para monitorar automaticamente o estoque e acionar alertas se os itens estiverem com pouca carga. Os beacons podem enviar ofertas e promoções direcionadas aos clientes para fornecer uma experiência envolvente.</p>
+
+<p><strong>Setor Público</strong></p>
+
+<p>Os benefícios da IoT no setor público e em outros ambientes relacionados a serviços são igualmente abrangentes. Por exemplo, os serviços públicos pertencentes ao governo podem usar aplicações baseadas na IoT para notificar seus usuários sobre interrupções em massa e até mesmo sobre interrupções menores nos serviços de água, energia ou esgoto. As aplicações de IoT podem coletar dados sobre o escopo de uma interrupção e implementar recursos para ajudar os utilitários a se recuperarem de interrupções com maior velocidade.</p>
+
+<p><strong>Assistência Médica</strong></p>
+
+<p>O monitoramento de ativos da IoT oferece vários benefícios ao setor de saúde. Médicos, enfermeiros e assistentes geralmente precisam saber a localização exata dos ativos de assistência ao paciente, como cadeiras de rodas. Quando as cadeiras de rodas de um hospital são equipadas com sensores IoT, elas podem ser rastreadas a partir da aplicação de monitoramento de ativos IoT para que qualquer pessoa que esteja procurando por uma possa encontrar rapidamente a cadeira de rodas disponível mais próxima. Muitos ativos hospitalares podem ser rastreados dessa maneira para garantir o uso adequado e a contabilidade financeira dos ativos físicos em cada departamento.</p>
+
+<p><strong>Segurança Geral em Todos os Setores</strong></p>
+
+<p>Além de rastrear ativos físicos, a IoT pode ser usada para melhorar a segurança do trabalhador. Os funcionários em ambientes perigosos, como minas, campos de petróleo e gás e usinas químicas e de energia, por exemplo, precisam saber sobre a ocorrência de um evento perigoso que possa afetá-los. Quando estão conectados a aplicações baseadas em sensores da IoT, eles podem ser notificados de acidentes ou resgatados deles o mais rápido possível. As aplicações de IoT também são usados para dispositivos vestíveis que podem monitorar a saúde humana e as condições ambientais. Esses tipos de aplicações não apenas ajudam as pessoas a entender melhor sua própria saúde, como também permitem que os médicos monitorem os pacientes remotamente.</p>
 
 
