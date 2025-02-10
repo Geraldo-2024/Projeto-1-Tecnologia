@@ -75,3 +75,7 @@ Empresas e governos podem coletar dados do rosto das pessoas contra a vontade de
 <p>A biometria usando a <strong>íris</strong> (a parte colorida do olho humano, que controla a entrada de luz) é extremamente confiável, já que a membrana permanece a mesma ao longo de toda a vida. Diferente do método de leitura da retina, ele é bem menos invasivo e oferece um alto grau de confiabilidade, além de ser difícil de contornar.
 Entretanto, a implementação do método é bastante cara, embora cogita-se que a leitura de íris será o método de biometria mais usado a médio prazo, superando a impressão digital.
 Muitos celulares, em especial modelos premium, trazem um scanner de íris embutido na câmera, oferecendo tal opção de segurança para proteger os dados.</p>
+
+<p><strong>4.Reconhecimento de Voz</p></strong>
+<p>O método de <strong>reconhecimento por voz</strong> faz uma análise dos parâmetros físicos (cordas vocais, laringe e etc.) e comportamentais, como sotaques, maneirismos, entonação e etc. O resultado é um perfil sonoro único, que em tese pode ser usado como uma assinatura biométrica.
+Com custo para a implementação baixo, a confiabilidade dos dados é pouca, já que qualquer ruído pode comprometer a coleta e análise da voz. Alterações causadas por problemas de saúde ou mesmo pelo envelhecimento também derrubam os índices de acertos.</p>
