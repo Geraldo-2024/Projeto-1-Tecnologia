@@ -93,7 +93,7 @@ O usuário deve olhar para um dispositivo e uma luz infravermelha de baixa inten
  Com baixo custo, sua captação dos dados não é tão simples e ele é pouco confiável, já que um usuário pode mudar o estilo de digitação, de forma inconsciente ou intencional.</p>
 
  <h1><strong>IOT</h1></strong>
-
+<img src="https://neilpatel.com/wp-content/uploads/2019/05/ilustracao-com-icones-relacionados-com-sigla-iot-e.jpeg"/>
 <P>A Internet das Coisas (IoT) descreve a rede de objetos físicos incorporados a sensores, software e outras tecnologias com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet. Esses dispositivos variam de objetos domésticos comuns a ferramentas industriais sofisticadas.</p>
 <
 <p><strong>Por que a Internet das Coisas (IoT) é tão importante?</strong></p>
